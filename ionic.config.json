@@ -1,0 +1,7 @@
+{
+  "name": "RMRCalc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
